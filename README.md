@@ -2,10 +2,9 @@
 
 
 ### from terminal
-<code>
+```bash
 cd working-directory
 git add .  
 git commit -m "Message Describing the push"
 git push
-</code>
-
+```
