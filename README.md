@@ -1,4 +1,4 @@
-##git commands
+## git commands
 
 
 ### from terminal
@@ -8,4 +8,5 @@ git add .
 git commit -m "Message Describing the push"
 git push
 ```
-##Gestalten in Code 
+
+## Gestalten in Code 
