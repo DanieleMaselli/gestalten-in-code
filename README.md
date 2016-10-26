@@ -12,4 +12,6 @@ git push
 ## Gestalten in Code 
 
 
-### jjakkjakajAKkkK
+###analogischer Algorithmus
+
+! [] (/desktop/image/01.pdf)
