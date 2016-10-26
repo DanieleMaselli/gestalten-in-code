@@ -14,4 +14,4 @@ git push
 
 ###analogischer Algorithmus
 
-! [] (/desktop/image/01.pdf)
+ ![Alt text](/desktop/image/01.jpg)
