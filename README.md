@@ -14,6 +14,5 @@ git push
 
 ###analogischer Algorithmus
 
-
-![myimage-alt-tag](/desktop/image/01.jpg) 
+![01](https://cloud.githubusercontent.com/assets/23034957/19771416/2c6749a4-9c63-11e6-8571-091066470f56.jpg)
  
