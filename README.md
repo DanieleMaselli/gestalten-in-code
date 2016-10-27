@@ -14,4 +14,4 @@ git push
 
 ###analogischer Algorithmus
 
-![alt tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/01.jpg)
+![alt tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/desktop/gestalten-in-code/01.jpg)
