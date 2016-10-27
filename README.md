@@ -14,5 +14,6 @@ git push
 
 ###analogischer Algorithmus
 
- ![Alt text](desktop/gestalten-in-code/to/01.jpg)
+
+![myimage-alt-tag](/desktop/image/01.jpg) 
  
