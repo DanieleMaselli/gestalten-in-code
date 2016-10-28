@@ -15,4 +15,5 @@ git push
 ###example of an analog algorithm
 
 ![01](https://cloud.githubusercontent.com/assets/23034957/19771416/2c6749a4-9c63-11e6-8571-091066470f56.jpg)
+[02.pdf](https://github.com/DanieleMaselli/gestalten-in-code/files/558740/02.pdf)
  
