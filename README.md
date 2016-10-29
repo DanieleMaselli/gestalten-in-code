@@ -11,6 +11,15 @@ git push
 
 ## Gestalten in Code 
 
+```
+analog algorithm
+
+```
+
+
+
+
+
 
 
 
