@@ -33,14 +33,17 @@ Create lines that merge into different points._
 
 ####_elaborate algorithm_
 
-
-_My second attempt for a Analogue algorithm was definitly more accurate on the description. Even it was explained very well, most of the people draw something that i never though about it._ 
+_Draws circles of various sizes throughout the sheet distant each other.  
+Trace straight lines which intersect but do not touch the circles_ 
 
 
 ![tree](https://cloud.githubusercontent.com/assets/23034957/19840120/91989d8a-9eef-11e6-97c8-a81572c9b18f.png)
 
 ![tree2](https://cloud.githubusercontent.com/assets/23034957/19840140/35f40414-9ef0-11e6-82e5-1ec8bb260499.png)
 
+###Personal thoughs
+
+_My second attempt for a analogue algorithm was definitly more accurate on the description. Even it was explained very well, most of the people draw something that i never though about it. I didn't wont to create a text that scares the reader or make him think to much for concluding an action. For that reason i found interesting the different visual tension giving from a cricle and a line to create some sort of grid. While looking on different drawings, we can recongize that every person gives a different touch and express themself in different way by just using a circle and a line._ 
 
 
 
