@@ -27,4 +27,16 @@ analog algorithm
 
 ![bozze](https://cloud.githubusercontent.com/assets/23034957/19812070/63ff4692-9d34-11e6-8252-78d4d66a9d92.jpg)
 
+
+```
+elaborate algorithm
+
+```
+
+
+
+
+![algo---papito-sist](https://cloud.githubusercontent.com/assets/23034957/19839450/55bdcab8-9ee2-11e6-8c5e-5ddb5920ad99.png)
+
+
  
