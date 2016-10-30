@@ -14,6 +14,9 @@ git push
 
 ####_analog algorithm_
 
+_Draw round shapes in vertical and horizontal which differ from the diameter.
+Create lines that merge into different points._
+
 
 
 
