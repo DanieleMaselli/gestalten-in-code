@@ -1,7 +1,7 @@
 ## git commands
 
 
-### from terminal
+#### from terminal
 ```bash
 cd working-directory
 git add .  
@@ -28,7 +28,7 @@ git push
 
 
 
-#elaborate algorithm
+####elaborate algorithm
 
 
 ###My second attempt for a Analogue algorithm was definitly more accurate on the description. Even it was explained very well, most of the people draw something that i never though about it. 
