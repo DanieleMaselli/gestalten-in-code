@@ -28,11 +28,11 @@ analog algorithm
 ![bozze](https://cloud.githubusercontent.com/assets/23034957/19812070/63ff4692-9d34-11e6-8252-78d4d66a9d92.jpg)
 
 
-```
-elaborate algorithm
 
-```
-#My second attempt for a Analogue algorithm was definitly more accurate on the description. Even it was explained very well, most of the people draw something that i never though about it. 
+#elaborate algorithm
+
+
+###My second attempt for a Analogue algorithm was definitly more accurate on the description. Even it was explained very well, most of the people draw something that i never though about it. 
 
 
 ![tree](https://cloud.githubusercontent.com/assets/23034957/19840120/91989d8a-9eef-11e6-97c8-a81572c9b18f.png)
