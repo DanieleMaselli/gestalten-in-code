@@ -36,9 +36,6 @@ elaborate algorithm
 
 
 
-![algo---papito-sist](https://cloud.githubusercontent.com/assets/23034957/19839450/55bdcab8-9ee2-11e6-8c5e-5ddb5920ad99.png)
-![marti-luca](https://cloud.githubusercontent.com/assets/23034957/19839516/c78fcdfc-9ee3-11e6-99bf-3eece9c26c23.png)
-![algodb](https://cloud.githubusercontent.com/assets/23034957/19840001/f73d8c8e-9eec-11e6-976f-dfc3322708e2.png)
 
 
 
