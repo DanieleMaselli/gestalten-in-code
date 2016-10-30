@@ -36,6 +36,9 @@ elaborate algorithm
 
 ![tree](https://cloud.githubusercontent.com/assets/23034957/19840120/91989d8a-9eef-11e6-97c8-a81572c9b18f.png)
 
+![tree2](https://cloud.githubusercontent.com/assets/23034957/19840140/35f40414-9ef0-11e6-82e5-1ec8bb260499.png)
+
+
 
 
 
