@@ -42,7 +42,7 @@ _Draws circles of various sizes throughout the sheet distant each other. Trace s
 
 ###Personal thoughs
 
-_My second attempt for a analogue algorithm was definitly more accurate on the description. Even it was explained very well, most of the people draw something that i never though about it. I didn't wont to create a text that scares the reader or make him think to much for concluding an action. For that reason i found interesting the different visual tension giving from a cricle and a line to create some sort of grid. While looking on different drawings, we can recongize that every person gives a different touch and express themself in different way by just using a circle and a line._ 
+_My second attempt for a analogue algorithm was definitly more accurate on the description. Even it was explained very well, most of the people draw something that i never though about it. I didn't wont to create a text that scares the reader or make him think to much for concluding an action. For that reason i found interesting the different visual tension giving from a cricle and a line to create some sort of grid. While looking on different drawings, we can recongize that every person gives a different touch and express themself in different way by just using a circle and a line. The problems for creating my expectation for this work, was more on getting the people covering the whole paper with circle and lines, and not just 3 or 4 circle. But i like the results, even i expected to create more some sort of a texture maze all over the paper._ 
 
 
 
