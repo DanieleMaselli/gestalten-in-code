@@ -12,7 +12,7 @@ git push
 ## Gestalten in Code 
 
 ```
-##analog algorithm
+analog algorithm
 
 ```
 
@@ -32,6 +32,7 @@ git push
 elaborate algorithm
 
 ```
+##My second attempt for a Analogue algorithm was definitly more accurate on the description. Even it was explained very well, most of the people draw something that i never though about it. 
 
 
 ![tree](https://cloud.githubusercontent.com/assets/23034957/19840120/91989d8a-9eef-11e6-97c8-a81572c9b18f.png)
