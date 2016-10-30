@@ -34,6 +34,10 @@ elaborate algorithm
 ```
 
 
+![tree](https://cloud.githubusercontent.com/assets/23034957/19840120/91989d8a-9eef-11e6-97c8-a81572c9b18f.png)
+
+
+
 
 
 
