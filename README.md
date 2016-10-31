@@ -38,7 +38,9 @@ _Draws circles of various sizes throughout the sheet distant each other. Trace s
 
 ![tree](https://cloud.githubusercontent.com/assets/23034957/19840120/91989d8a-9eef-11e6-97c8-a81572c9b18f.png)
 
-![tree2](https://cloud.githubusercontent.com/assets/23034957/19840140/35f40414-9ef0-11e6-82e5-1ec8bb260499.png)
+![bozzee](https://cloud.githubusercontent.com/assets/23034957/19841110/04455228-9f05-11e6-8489-16a806461718.png)
+
+
 
 ###personal thoughs
 
