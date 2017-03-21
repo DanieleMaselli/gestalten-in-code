@@ -54,7 +54,7 @@ Color Bands is a series of eight prints in which enthralling curves and lines pl
 
 The first step were made by analyzing the studies behind the geometric shapes. It was immediate recognizable that his work were based on simple geometric shapes and his infinite possibilities. By taking the prints we develop his work without the use of color to show the purity of the geometric forms.
 
-![](./assets/images/dma-1.png)
+
 
 With the help of computer programs, it has been recreated some of his works to be then analyzed in its details. When we talk about the geometric shapes, it is visible that the origin of the forms, are always coming from the same source and repeat itself throughout the canvas. The space separating each repetition is always measured by the same magnitude until arriving to its ultimate point.
 
