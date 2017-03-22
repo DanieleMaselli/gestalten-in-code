@@ -41,7 +41,7 @@ Levitt infrequently created paintings. His most famous works - "Red square, whit
 
 ## Sol Lewitt: Color Bands 
 
-![](./assets/images/color-bands.png)
+![](./assets/images/bands.png)
 
 
 Color Bands is a series of eight prints in which enthralling curves and lines play on the optical effects. For Color Bands, he composed a set of drawings and measurements that were executed by a master printmaker.
